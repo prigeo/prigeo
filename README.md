@@ -1,7 +1,7 @@
 ## Olá! Me chamo Priscilla Pedrette
 
-- 🌎 Sou geógraf@
-- 🌱 Análises espaciais
+- 🌎 Sou geógrafa
+- 💻 Análises espaciais
 - 📌 Trabalho com dados de saúde 
 - 😄 Pronones: ela/dela
 </div>
